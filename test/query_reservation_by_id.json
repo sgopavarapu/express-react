@@ -1,0 +1,1 @@
+{"query":"{\n  reservation(id : \"5a8e7a0be085e7670a50b1ac\") {\n    id\n    hotelName\n    name\n    arrivalDate\n    departureDate\n  }\n}"}
